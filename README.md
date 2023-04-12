@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou o Victor Hugo 🔥</h1>
 
-[![Stream](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zllskyoficial)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-estevão-77b9b0239/)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victormorekids@gmail.com) 
+[![Stream](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zllskyoficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-estevão-77b9b0239/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victormorekids@gmail.com) 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorinProgramming&show_icons=true&theme=highcontrast)
 
