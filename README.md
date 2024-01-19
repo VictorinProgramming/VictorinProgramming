@@ -23,7 +23,7 @@
     <img style="border-radius:10px" aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <div>
 
-## Formação: 
+## Education: 
 Superior Tercnologia em Gestão da Tecnologia da Informação, Programação de Computadores - UNOPAR do Distrito Federal;
 
 ## Competencies: 
