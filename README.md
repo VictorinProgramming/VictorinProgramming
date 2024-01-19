@@ -24,7 +24,7 @@
 <div>
 
 ## Education: 
-Superior Tercnologia em Gestão da Tecnologia da Informação, Programação de Computadores - UNOPAR do Distrito Federal;
+Tehcnical degree in Information Technology, Computer programming - UNOPAR of Distrito Federal;
 
 ## Competencies: 
 I work well in a team, I am agile, creative, and proactive, I can Manage to organize the work to be done through spreadsheets.
