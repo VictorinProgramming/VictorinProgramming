@@ -1,4 +1,4 @@
-# Olá eu sou o Victor Hugo 👾🖥️"
+# Hi, I am Victor Hugo 👾🖥️"
 <div style="display: inline_block">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-estev%C3%A3o/) 
@@ -8,7 +8,8 @@
 
 </div>
 
-## Tecnologias que eu uso no meu dia; Melhores Skills
+## Technologies I use in my day; Best skills
+
 
 <div style="display: inline_block" >
 <br>
